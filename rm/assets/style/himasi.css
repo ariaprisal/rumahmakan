@@ -1,0 +1,36 @@
+/* header */
+.head-himasi {
+	position: relative;
+	top: 0;
+}
+
+.nav-himasi{
+	margin-top: 20px;
+}
+
+/*footer*/
+
+.foot-himasi{
+	text-align: center;
+	background-color: #333;
+    color: #fff;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+}
+
+.foot-tel{
+	margin-right: 5px;
+}
+
+.foot-mail{
+	margin-left: 5px;
+}
+
+.alamat {
+	margin-bottom: 0;
+}
+
+.univ{
+	font-size: 20px;
+}
